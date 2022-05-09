@@ -1,0 +1,7 @@
+
+export enum AssetsStatusEnum {
+  BANNED = 'BANNED',
+  ACTIVE = 'ACTIVE',
+  VERIFIKASI = 'VERIFIKASI',
+  UNVERIFIKASI = 'UNVERIFIKASI',
+}
